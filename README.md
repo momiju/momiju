@@ -1,14 +1,20 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A8E063,50:F6E96B,100:56AB2F&height=220&section=header&text=Huiju's%20GitHub&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A8E063,50:F6E96B,100:56AB2F&height=215&section=header&text=Huiju's%20GitHub&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 
 </div>
 
 <br>
 
 <div align="center">
+  <a href="https://github.com/momiju"> 
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=E6ED9F&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Huiju+Oh!+%F0%9F%91%8B;A+Junior+Developer+%F0%9F%8D%80" alt="Typing SVG" />
+  </a> 
+</div>
 
-  <h3>🍀 안녕하세요, 주니어 개발자 오희주입니다.</h3>
+<br>
+
+<div align="center">
 
   <p>
     Java와 Spring Boot를 중심으로 백엔드 개발을 공부하고 있으며,<br>
