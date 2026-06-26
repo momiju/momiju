@@ -130,8 +130,8 @@
 
 <div align="center">
 
-  <a href="https://duckmj.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
+  <a href="https://velog.io/@momiju">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
   </a>
   &nbsp;
   <a href="mailto:ohj501891@gmail.com">
