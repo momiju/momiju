@@ -85,6 +85,7 @@
       <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=white">
       <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+      <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
     </td>
   </tr>
 </table>
