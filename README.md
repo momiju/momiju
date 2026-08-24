@@ -80,6 +80,16 @@
 
   <tr>
     <td align="center" width="170">
+      <b>Cloud / DevOps</b>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="Amazon AWS">
+      <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="170">
       <b>Tools</b>
     </td>
     <td align="center">
@@ -88,7 +98,6 @@
       <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA">
       <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-      <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="Amazon AWS">
     </td>
   </tr>
 </table>
