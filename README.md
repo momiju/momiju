@@ -20,8 +20,8 @@
 
 <div align="center">
   <p>
-    Java와 Spring Boot를 중심으로 백엔드 개발을 공부하고 있으며,<br>
-    Python, Flask, Android, AI API를 활용한 서비스 개발 경험도 함께 쌓아가고 있습니다.
+    Focusing on backend development with Java and Spring Boot,<br>
+    while gaining hands-on experience with Python, Flask, Android, and AI APIs.
   </p>
 </div>
 
@@ -105,22 +105,93 @@
 <br><br>
 
 <div align="center">
-  <h2>📊 GitHub Stats</h2>
+  <h2>🚀 Featured Projects</h2>
 </div>
 
 <br>
 
 <div align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=momiju&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    alt="GitHub Stats"
-  />
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=momiju&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
+  <h3>🏦 FinAuditAI: AI Credit Scoring Regulatory Compliance Audit Platform</h3>
+  <p>
+    AI-powered audit platform for evaluating explainability, fairness, and regulatory compliance of credit scoring models.<br>
+Integrates model analysis, regulatory checks, and LLM-based audit report generation into a unified workflow.
+  </p>
+  <p>
+    <code>Spring Boot</code>
+    <code>FastAPI</code>
+    <code>MySQL</code>
+    <code>AWS</code>
+    <code>XGBoost</code>
+    <code>OpenAI API</code>
+  </p>
+</div>
+
+<br>
+
+<div align="center">
+  <h3>🔐 Maskify: Personal Information Detection and Masking System</h3>
+  <p>
+    OCR-based mobile system that automatically detects personal information in images and selects it for masking.<br>
+Users can adjust the detected text areas, apply blur, and save or share the result.
+  </p>
+  <p>
+    <code>Android</code>
+    <code>Java</code>
+    <code>Kotlin</code>
+    <code>Flask</code>
+    <code>Tesseract OCR</code>
+    <code>OpenCV</code>
+  </p>
+</div>
+
+<br>
+
+<div align="center">
+  <h3>🚨 Real-Time CCTV Violence Detection System</h3>
+  <p>
+    AI-based CCTV system for detecting violent behavior in real time from video streams.<br>
+Processes live video frames and identifies suspicious or violent actions for real-time monitoring.
+  </p>
+  <p>
+    <code>Python</code>
+    <code>Flask</code>
+    <code>OpenCV</code>
+    <code>YOLO</code>
+    <code>MJPEG</code>
+  </p>
+</div>
+
+<br>
+
+<div align="center">
+  <h3>🚗 Parking Management System</h3>
+  <p>
+    Vehicle management system for identifying and managing registered and unregistered vehicles.<br>
+Supports vehicle registration, access verification, and management of vehicle entry information.
+  </p>
+  <p>
+    <code>Java</code>
+    <code>Spring Boot</code>
+    <code>MySQL</code>
+    <code>HTML</code>
+    <code>CSS</code>
+  </p>
+</div>
+
+<br>
+
+<div align="center">
+  <h3>✈️ Travia: Travel Itinerary Recommendation System</h3>
+  <p>
+    AI-powered travel service for generating personalized travel itineraries based on user preferences.<br>
+Uses survey-based preference data and AI APIs to recommend customized travel plans.
+  </p>
+  <p>
+    <code>FastAPI</code>
+    <code>Python</code>
+    <code>MySQL</code>
+    <code>Gemini API</code>
+  </p>
 </div>
 
 <br><br>
@@ -149,10 +220,10 @@
 <br>
 
 <div align="center">
-  <a href="https://duckmj.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory">
+  <a href="https://duckmj.tistory.com/"> 
+    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory"> 
   </a>
-
+  
   <a href="mailto:ohj501891@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
