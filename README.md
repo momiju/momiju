@@ -166,8 +166,8 @@ Processes live video frames and identifies suspicious or violent actions for rea
 <div align="center">
   <h3>🚗 Parking Management System</h3>
   <p>
-    Vehicle management system for identifying and managing registered and unregistered vehicles.<br>
-Supports vehicle registration, access verification, and management of vehicle entry information.
+    Parking management system for registered vehicle management, vehicle entry history, and unregistered vehicle monitoring.<br>
+Uses OCR and BLE RSSI data to track vehicle events and deliver real-time alerts through the admin web interface.
   </p>
   <p>
     <code>Java</code>
