@@ -160,7 +160,6 @@
     <code>Python</code>
     <code>Flask</code>
     <code>X3D</code>
-    <code>YOLOv8</code>
     <code>Qwen2.5-VL</code>
     <code>Ollama</code>
     <code>OpenCV</code>
@@ -173,8 +172,9 @@
 <div align="center">
   <h3>🚗 Parking Management System</h3>
   <p>
-    A parking management system integrating OCR-based license plate recognition and BLE RSSI-based vehicle tracking.<br>
-    Manages vehicle entry records and unregistered vehicle locations, with real-time SSE alerts for administrators.
+    An OCR- and BLE-based parking management system for administrators.<br>
+    Manages vehicle entry records and tracks the last detected locations of unregistered vehicles,<br>
+    providing real-time SSE alerts for vehicle detection and location changes.
   </p>
   <p>
     <code>Java</code>
@@ -182,6 +182,8 @@
     <code>MySQL</code>
     <code>HTML</code>
     <code>CSS</code>
+    <code>JavaScript</code>
+    <code>SSE</code>
   </p>
 </div>
 
@@ -197,7 +199,6 @@
     <code>FastAPI</code>
     <code>Python</code>
     <code>MySQL</code>
-    <code>Gemini API</code>
   </p>
 </div>
 
