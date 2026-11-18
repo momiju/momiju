@@ -113,16 +113,19 @@
 <div align="center">
   <h3>🏦 FinAuditAI: AI Credit Scoring Regulatory Compliance Audit Platform</h3>
   <p>
-    AI-powered audit platform for evaluating explainability, fairness, and regulatory compliance of credit scoring models.<br>
-Integrates model analysis, regulatory checks, and LLM-based audit report generation into a unified workflow.
+    A B2B platform integrating explainability, fairness, and regulatory compliance audits for credit scoring AI models.<br>
+    Supports SHAP/Fairlearn analysis, LLM-generated audit reports, and AI-assisted objection responses.
   </p>
   <p>
+    <code>Java</code>
+    <code>Python</code>
     <code>Spring Boot</code>
     <code>FastAPI</code>
-    <code>MySQL</code>
-    <code>AWS</code>
+    <code>PostgreSQL</code>
+    <code>TypeScript</code>
     <code>XGBoost</code>
-    <code>OpenAI API</code>
+    <code>SHAP</code>
+    <code>AWS</code>
   </p>
 </div>
 
@@ -131,33 +134,37 @@ Integrates model analysis, regulatory checks, and LLM-based audit report generat
 <div align="center">
   <h3>🔐 Maskify: Personal Information Detection and Masking System</h3>
   <p>
-    OCR-based mobile system that automatically detects personal information in images and selects it for masking.<br>
-Users can adjust the detected text areas, apply blur, and save or share the result.
+    An OCR-based mobile application that automatically detects personal information in images using PaddleOCR.<br>
+    Improved OCR field accuracy from 45.2% to 90.3%, with adjustable masking areas and image saving/sharing.
   </p>
   <p>
-    <code>Android</code>
-    <code>Java</code>
     <code>Kotlin</code>
+    <code>Android</code>
+    <code>Python</code>
     <code>Flask</code>
-    <code>Tesseract OCR</code>
+    <code>PaddleOCR</code>
     <code>OpenCV</code>
+    <code>MySQL</code>
   </p>
 </div>
 
 <br>
 
 <div align="center">
-  <h3>🚨 Real-Time CCTV Violence Detection System</h3>
+  <h3>🚨 AI-Based CCTV Violence Detection System</h3>
   <p>
-    AI-based CCTV system for detecting violent behavior in real time from video streams.<br>
-Processes live video frames and identifies suspicious or violent actions for real-time monitoring.
+    An AI-based CCTV system that detects violence in real time using X3D and Vision LLM verification.<br>
+    Supports asynchronous analysis, automatic incident capture, event history management, and real-time SSE alerts.
   </p>
   <p>
     <code>Python</code>
     <code>Flask</code>
+    <code>X3D</code>
+    <code>YOLOv8</code>
+    <code>Qwen2.5-VL</code>
+    <code>Ollama</code>
     <code>OpenCV</code>
-    <code>YOLO</code>
-    <code>MJPEG</code>
+    <code>MySQL</code>
   </p>
 </div>
 
@@ -166,8 +173,8 @@ Processes live video frames and identifies suspicious or violent actions for rea
 <div align="center">
   <h3>🚗 Parking Management System</h3>
   <p>
-    Parking management system for registered vehicle management, vehicle entry history, and unregistered vehicle monitoring.<br>
-Uses OCR and BLE RSSI data to track vehicle events and deliver real-time alerts through the admin web interface.
+    A parking management system integrating OCR-based license plate recognition and BLE RSSI-based vehicle tracking.<br>
+    Manages vehicle entry records and unregistered vehicle locations, with real-time SSE alerts for administrators.
   </p>
   <p>
     <code>Java</code>
@@ -183,8 +190,8 @@ Uses OCR and BLE RSSI data to track vehicle events and deliver real-time alerts 
 <div align="center">
   <h3>✈️ Travia: Travel Itinerary Recommendation System</h3>
   <p>
-    AI-powered travel service for generating personalized travel itineraries based on user preferences.<br>
-Uses survey-based preference data and AI APIs to recommend customized travel plans.
+    An AI-powered travel planning service that generates personalized itineraries based on user preferences.<br>
+    Uses survey-based preference data and the Gemini API to recommend customized travel schedules.
   </p>
   <p>
     <code>FastAPI</code>
